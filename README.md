@@ -1,6 +1,6 @@
 # AWS-Scenarios
 
-Sure, here are 50 scenario-based questions focused on AWS regions and availability zones, along with detailed answers tailored for someone with seven years of experience:
+50 scenario-based questions focused on AWS regions and availability zones, along with detailed answers tailored for someone with seven years of experience:
 
 1. **Question**: You need to deploy an application in a region with low latency for users in the Asia Pacific region. Which AWS region would you choose and why?
 
