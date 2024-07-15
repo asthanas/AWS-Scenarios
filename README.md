@@ -102,9 +102,7 @@
 
     **Answer**: Amazon Aurora Global Database provides low-latency global reads and fast local writes by replicating data across multiple AWS regions. This ensures data is available closer to users, improving read performance, and provides high availability by enabling cross-region disaster recovery.
 
-26. **Question**: How would you design a multi-region VPC peering setup
-
- for a global application?
+26. **Question**: How would you design a multi-region VPC peering setupfor a global application?
 
     **Answer**: I would create VPCs in each region and establish VPC peering connections between them. I would configure route tables to allow traffic to flow between peered VPCs and ensure security groups and network ACLs are set to permit the necessary traffic. For improved performance, I would consider using AWS Transit Gateway.
 
