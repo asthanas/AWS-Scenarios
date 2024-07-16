@@ -201,3 +201,5 @@
 50. **Question**: How can you use AWS CodePipeline for continuous delivery across multiple regions?
 
     **Answer**: AWS CodePipeline can be configured to deploy applications to multiple regions by defining deployment stages for each region. I would use CodeDeploy or CloudFormation actions within the pipeline to deploy resources to target regions, ensuring consistent and automated delivery across regions.
+
+
